@@ -1,0 +1,47 @@
+[
+  {
+    "id": 6,
+    "name": "test123",
+    "price": 1992,
+    "stock": 91,
+    "category": "Computer",
+    "description": "hummm",
+    "url": ""
+  },
+  {
+    "id": 7,
+    "name": "test v2",
+    "price": 199,
+    "stock": 90,
+    "category": "Laptop",
+    "description": "humane",
+    "url": ""
+  },
+  {
+    "id": 8,
+    "name": "image test",
+    "price": 123,
+    "stock": 3,
+    "category": "Laptop",
+    "description": "3s",
+    "url": "manage.csv"
+  },
+  {
+    "id": 10,
+    "name": "Sena",
+    "price": 2222,
+    "stock": 99,
+    "category": "Laptop",
+    "description": "hi",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAw1BMVEXiKwD////iJAAAAADfEAD56+fy0cvhGgDdXkjcFQDiFQD26OTiHwDmua/omo7w3NXnppzbZ1HosKXgiHrmubTgsqnbfWz0oZfomo/spZz0q6L76OPdnpPi5+fnpprS0tI+Pj7v8vOurq6Xl5d2dnaCgoI3Nze9vb0VFRWjo6Pgo5zZUz7bUTndTDTdZ1fimpDnkYLckYTVNhrlwr7XQyjwlozedGXlysPig3UqKiq4uLiOjo5iYmJLS0sjIyNYWFjjOxnVc3QuAAAD4klEQVR4nO3dC1PaQBSGYZINTYmRthZrrbUhQYTe1dIWRK3//1d1Fyu5kAtHbTuy76ODWQLM5JvNcXOl1QIAAAAAAAAAAAAAAAAAAAAA2MMPyvjuzVw381Th1e7qZ2VeHf7LZfhXwre9Mh8+emau+ynzlF5+dydtf15Jy/2Szv26iWl5z5xyvY6e675In2jr+DrttP10JazwZTr3ifcfFuZvqwzL2fHyYW11CKsyLGfiElZeTVgvQ8LKqwnrdSEsalZdWD5h5dWE1fVZDfMIS4CwBNavWW3Cyoa13e12M00dVmuy3711EhJWJp0fnu9t51ZDveW8ZDb2CGvpVdjyi2HlEVZtWH7Q0LPccNn3gqm9YS1q1tulU7csrODsNH3JN6vDatxF09lxytkW1hrjLK8qK8JaCcudVGVlfVirq2H235/lYTXvdfDfERZhVbhXzSIsSVjPCasirJLVkLBurVGzCOtuYT35vve9Z29Yspq14/mexRvSwrB823fRCMZZloclG5QSFmHlPNgInrDsKfCZkxar+H7u6E4QeHceZz3usNwf27tryCz+T93csjMsvSRxrH9j546mjaccbVBY+4dKOWM1umtYZ42nSW5WWLNIjZ3zxHGi6FA/mj/6J4r19Pl5XJ+VOWxoVVj9gRrMlOrrPqbU3BmpyyM1XE"
+  },
+  {
+    "id": 11,
+    "name": "Sena",
+    "price": 2222,
+    "stock": 99,
+    "category": "Laptop",
+    "description": "hi",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAw1BMVEXiKwD////iJAAAAADfEAD56+fy0cvhGgDdXkjcFQDiFQD26OTiHwDmua/omo7w3NXnppzbZ1HosKXgiHrmubTgsqnbfWz0oZfomo/spZz0q6L76OPdnpPi5+fnpprS0tI+Pj7v8vOurq6Xl5d2dnaCgoI3Nze9vb0VFRWjo6Pgo5zZUz7bUTndTDTdZ1fimpDnkYLckYTVNhrlwr7XQyjwlozedGXlysPig3UqKiq4uLiOjo5iYmJLS0sjIyNYWFjjOxnVc3QuAAAD4klEQVR4nO3dC1PaQBSGYZINTYmRthZrrbUhQYTe1dIWRK3//1d1Fyu5kAtHbTuy76ODWQLM5JvNcXOl1QIAAAAAAAAAAAAAAAAAAAAA2MMPyvjuzVw381Th1e7qZ2VeHf7LZfhXwre9Mh8+emau+ynzlF5+dydtf15Jy/2Szv26iWl5z5xyvY6e675In2jr+DrttP10JazwZTr3ifcfFuZvqwzL2fHyYW11CKsyLGfiElZeTVgvQ8LKqwnrdSEsalZdWD5h5dWE1fVZDfMIS4CwBNavWW3Cyoa13e12M00dVmuy3711EhJWJp0fnu9t51ZDveW8ZDb2CGvpVdjyi2HlEVZtWH7Q0LPccNn3gqm9YS1q1tulU7csrODsNH3JN6vDatxF09lxytkW1hrjLK8qK8JaCcudVGVlfVirq2H235/lYTXvdfDfERZhVbhXzSIsSVjPCasirJLVkLBurVGzCOtuYT35vve9Z29Yspq14/mexRvSwrB823fRCMZZloclG5QSFmHlPNgInrDsKfCZkxar+H7u6E4QeHceZz3usNwf27tryCz+T93csjMsvSRxrH9j546mjaccbVBY+4dKOWM1umtYZ42nSW5WWLNIjZ3zxHGi6FA/mj/6J4r19Pl5XJ+VOWxoVVj9gRrMlOrrPqbU3BmpyyM1XE"
+  }
+]
